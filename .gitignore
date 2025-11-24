@@ -6,3 +6,5 @@ eclipse.bat
 .idea/
 *.iml
 out/
+
+*.properties
